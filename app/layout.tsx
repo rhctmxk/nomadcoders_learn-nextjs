@@ -1,4 +1,4 @@
-import AboutUs from "./about-us/page";
+import "../styles/global.css";
 import Navigation from "../components/navigation";
 import {Metadata} from "next";
 
